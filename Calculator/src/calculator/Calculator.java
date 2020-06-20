@@ -51,6 +51,8 @@ public class Calculator {
                 System.out.println("Non exestnt operation!");
                 break;
         }
+        
+        System.out.println("Calculation has been finished");
     }
     
 }
